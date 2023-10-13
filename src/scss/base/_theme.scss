@@ -1,0 +1,32 @@
+$color-light-black: #1A1A1A;
+$color-orange: #F63;
+$color-gray: #F5F5F5;
+$color-text-gray: #666;
+$color-light-black-2: #111;
+$color-gray-border: #B0B0B0;
+
+$font-mont: Mont, sans-serif;
+
+@mixin buttonOrange() {
+  display: flex;
+  width: 100%;
+  border: 0;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100px;
+  background: $color-orange;
+  color: $color-white;
+  text-align: center;
+  font-family: $font-mont;;
+  font-size: rem(22);
+  font-style: normal;
+  font-weight: 800;
+  line-height: rem(24); /* 109.091% */
+  text-transform: uppercase;
+  transition: all 0.25s ease;
+
+  &:hover {
+    background: $color-black;
+    color: $color-orange;
+  }
+}
