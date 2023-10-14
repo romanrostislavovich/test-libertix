@@ -223,7 +223,7 @@ main {
        }
      }
 
-     & h3 {
+     & h2 {
        margin-top: 15px;
        color: $color-black;
        font-family: $font-mont;;
@@ -283,7 +283,7 @@ main {
           line-height: rem(38); /* 114.286% */
         }
 
-        & h3 {
+        & h2 {
           font-size: rem(18);
           line-height: rem(24); /* 142.857% */
           letter-spacing: 0.14px;
@@ -352,7 +352,7 @@ main {
           line-height: rem(32); /* 114.286% */
         }
 
-        & h3 {
+        & h2 {
           text-align: center;
           font-family: $font-mont;
           font-size: 0.84rem;
@@ -693,7 +693,7 @@ main {
         letter-spacing: 0.4px;
       }
 
-      p {
+      h4 {
         color: $color-black;
         text-align: center;
         font-family: $font-mont;
@@ -851,7 +851,7 @@ main {
           letter-spacing: 0.24px;
         }
 
-        p {
+        h4 {
           margin-top: 8px;
           font-size: rem(16);
           line-height: rem(24); /* 150% */

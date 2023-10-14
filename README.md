@@ -13,8 +13,8 @@
 - Adaptive
 - Semantic code
 - Cross browsers ?
-- Minimize images ?
-- Simple accessibility? - Level A
+- Minimize images - saved 65% (2 mb total)
+- Simple accessibility - Level A
 - Fast load website? - less than 
 - Import Fonts - import only used fonts
 
@@ -27,6 +27,7 @@
 - [Semantic Validator W3](https://validator.w3.org/)
 - [Pixel Perfect](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
 - [TinyPNG](https://tinypng.com/)
+- [Wave Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related)
 - Linting
   - ESLint
   - HTMLHint
