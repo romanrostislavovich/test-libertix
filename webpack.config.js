@@ -131,15 +131,7 @@ module.exports = {
           from: path.resolve(environment.paths.source, 'images', 'favicons'),
           to: path.resolve(environment.paths.output, 'images', 'favicons'),
           toType: 'dir',
-        },
-        {
-          from: path.resolve(environment.paths.source, 'videos'),
-          to: path.resolve(environment.paths.output, 'videos'),
-          toType: 'dir',
-          globOptions: {
-            ignore: ['*.DS_Store', 'Thumbs.db'],
-          },
-        },
+        }
       ],
     }),
   ].concat(htmlPluginEntries),
