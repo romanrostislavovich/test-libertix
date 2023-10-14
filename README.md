@@ -15,7 +15,7 @@
 - Cross browsers ?
 - Minimize images - saved 65% (2.4 mb total)
 - Simple accessibility - Level A
-- Fast load website? - less than 
+- Fast load website - less than 450ms
 - Import Fonts - import only used fonts
 
 ## What I use
