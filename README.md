@@ -30,6 +30,7 @@
 - [TinyPNG](https://tinypng.com/)
 - [Wave Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related)
 - [Ping Dom](https://tools.pingdom.com/)
+- [Browser ling](https://www.browserling.com/)
 - Linting
   - ESLint
   - HTMLHint
