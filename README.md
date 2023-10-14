@@ -12,10 +12,11 @@
 - Sprite SVG for optimisation
 - Adaptive
 - Semantic code
-- Cross browsers ?
+- Cross browsers
 - Minimize images - saved 65% (2.4 mb total)
 - Simple accessibility - Level A
-- Fast load website - less than 450ms
+- Fast load website - less than 400ms
+- Total website size - less than 0.5mb 
 - Import Fonts - import only used fonts
 
 ## What I use
@@ -41,7 +42,7 @@
 - Add more SEO Tags 
 - Make it 1px in 1px, now the error is 5-6px
 - Sprite for PNG icons
-- Using OpenType Font Variations or SDN for current Font
+- Using OpenType Font Variations or SDN for current Font. If change it website will be loaded probably on 200ms
 - Improved accessibility to Level AA
 - For the underlined border on accordion, I made a regular dotted line, but the length of the stripes is slightly different.
 - Check all items on this website [frontendchecklist](https://frontendchecklist.io/)
